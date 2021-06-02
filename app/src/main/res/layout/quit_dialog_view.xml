@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textColor="@color/black"
+        android:textSize="25sp"
+        android:gravity="center"
+        android:text = "@string/are_you_sure"/>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+        <Button
+            android:id="@+id/yes"
+            android:layout_marginLeft="20dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:backgroundTint="@color/red_1"
+            android:gravity="center"
+            android:text="@string/yes"
+            android:layout_weight="1"
+            tools:targetApi="lollipop"
+            tools:ignore="ButtonStyle"
+            android:layout_marginStart="20dp" />
+
+        <Button
+            android:id="@+id/no"
+            android:layout_marginRight="20dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:backgroundTint="@color/green"
+            android:gravity="center"
+            android:layout_weight="1"
+            android:text="@string/no"
+            tools:ignore="ButtonStyle,MissingConstraints"
+            tools:targetApi="lollipop"
+            android:layout_marginEnd="20dp" />
+    </LinearLayout>
+</LinearLayout>

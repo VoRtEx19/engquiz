@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- questions sample -->
+    <string name="synonym">What is synonym of </string>
+    <string name="antonym">What is antonym of </string>
+    <!-- example <item>{\"q\":\"\", \"a\":[\"\", \"\"], \"ra\":}</item>-->
+    <!-- synonyms/antonyms -->
+    <string-array name="t1_s">
+        <item>{\"q\":\"notify\", \"a\":[\"Inflict\", \"Inform\"], \"ra\":2}</item>
+        <item>{\"q\":\"enjoyment\", \"a\":[\"Pleasure\", \"Pleading\"], \"ra\":1}</item>
+        <item>{\"q\":\"realization\", \"a\":[\"Awareness\", \"Fairness\"], \"ra\":1}</item>
+        <item>{\"q\":\"fashion\", \"a\":[\"Complement\", \"Construct\"], \"ra\":2}</item>
+        <item>{\"q\":\"uniform\", \"a\":[\"Constant\", \"Component\"], \"ra\":1}</item>
+        <item>{\"q\":\"proponent\", \"a\":[\"Advocate\", \"Hate\"], \"ra\":1}</item>
+        <item>{\"q\":\"repair\", \"a\":[\"Restoration\", \"Reception\"], \"ra\":1}</item>
+        <item>{\"q\":\"destination\", \"a\":[\"Terminus\", \"Bonus\"], \"ra\":1}</item>
+        <item>{\"q\":\"redemption\", \"a\":[\"Saving\", \"Sting\"], \"ra\":1}</item>
+        <item>{\"q\":\"configuration\", \"a\":[\"Compartment\", \"Arrangement\"], \"ra\":2}</item>
+        <item>{\"q\":\"defeat\", \"a\":[\"Loss\", \"Loop\"], \"ra\":1}</item>
+        <item>{\"q\":\"hero\", \"a\":[\"Warrior\", \"Warning\"], \"ra\":1}</item>
+        <item>{\"q\":\"stance\", \"a\":[\"Texture\", \"Posture\"], \"ra\":2}</item>
+        <item>{\"q\":\"cocaine\", \"a\":[\"Freebase\", \"Franchise\"], \"ra\":1}</item>
+        <item>{\"q\":\"spray\", \"a\":[\"Tag\", \"Twig\"], \"ra\":2}</item>
+        <item>{\"q\":\"dread\", \"a\":[\"Fear\", \"Shear\"], \"ra\":1}</item>
+        <item>{\"q\":\"escape\", \"a\":[\"Driveway\", \"Getaway\"], \"ra\":2}</item>
+        <item>{\"q\":\"reconnaissance\", \"a\":[\"Survey\", \"Supremacy\"], \"ra\":1}</item>
+        <item>{\"q\":\"garner\", \"a\":[\"Coexist\", \"Collect\"], \"ra\":2}</item>
+        <item>{\"q\":\"raging\", \"a\":[\"Angry\", \"Auditory\"], \"ra\":1}</item>
+        <item>{\"q\":\"comparative\", \"a\":[\"Respective\", \"Relative\"], \"ra\":2}</item>
+        <item>{\"q\":\"chunk\", \"a\":[\"Jump\", \"Lump\"], \"ra\":2}</item>
+        <item>{\"q\":\"brow\", \"a\":[\"Forehead\", \"Foreigner\"], \"ra\":1}</item>
+        <item>{\"q\":\"roadblock\", \"a\":[\"Barrier\", \"Breaker\"], \"ra\":1}</item>
+        <item>{\"q\":\"fissure\", \"a\":[\"Awning\", \"Opening\"], \"ra\":2}</item>
+    </string-array>
+    <string-array name="t1_a">
+        <item>{\"q\":\"decent\", \"a\": [\"Regulatory\", \"Unsatisfactory\"], \"ra\": 2}</item>
+        <item>{\"q\":\"proud\", \"a\":[\"Limited\", \"Ashamed\"], \"ra\":2}</item>
+        <item>{\"q\":\"minuscule\", \"a\":[\"Huge\", \"Hoarse\"], \"ra\":1}</item>
+        <item>{\"q\":\"lukewarm\", \"a\":[\"Hot\", \"Aft\"], \"ra\":1}</item>
+        <item>{\"q\":\"malleable\", \"a\":[\"Hard\", \"Hard-Boiled\"], \"ra\":1}</item>
+        <item>{\"q\":\"talented\", \"a\":[\"Instant\", \"Inept\"], \"ra\":2}</item>
+        <item>{\"q\":\"seeming\", \"a\":[\"Actual\", \"Textual\"], \"ra\":1}</item>
+        <item>{\"q\":\"ominous\", \"a\":[\"Promising\", \"Pioneering\"], \"ra\":1}</item>
+        <item>{\"q\":\"overcast\", \"a\":[\"Self-Taught\", \"Bright\"], \"ra\":2}</item>
+        <item>{\"q\":\"frailty\", \"a\":[\"Strength\", \"Strut\"], \"ra\":1}</item>
+        <item>{\"q\":\"dash\", \"a\":[\"Dismantle\", \"Dawdle\"], \"ra\":2}</item>
+        <item>{\"q\":\"tyrannical\", \"a\":[\"Liberal\", \"Retinal\"], \"ra\":1}</item>
+        <item>{\"q\":\"pragmatic\", \"a\":[\"Theatrical\", \"Impractical\"], \"ra\":2}</item>
+        <item>{\"q\":\"bawdy\", \"a\":[\"Circadian\", \"Clean\"], \"ra\":2}</item>
+        <item>{\"q\":\"heed\", \"a\":[\"Discredit\", \"Disregard\"], \"ra\":2}</item>
+        <item>{\"q\":\"nether\", \"a\":[\"Uncool\", \"Upper\"], \"ra\":2}</item>
+        <item>{\"q\":\"motionless\", \"a\":[\"Moving\", \"Raging\"], \"ra\":1}</item>
+        <item>{\"q\":\"lout\", \"a\":[\"Draftsman\", \"Gentleman\"], \"ra\":2}</item>
+        <item>{\"q\":\"preposterous\", \"a\":[\"Sensible\", \"Deductible\"], \"ra\":1}</item>
+        <item>{\"q\":\"flimsy\", \"a\":[\"Sturdy\", \"Spooky\"], \"ra\":1}</item>
+        <item>{\"q\":\"disregard\", \"a\":[\"Heed\", \"Heave\"], \"ra\":1}</item>
+        <item>{\"q\":\"lace\", \"a\":[\"Undercut\", \"Untie\"], \"ra\":2}</item>
+        <item>{\"q\":\"stow\", \"a\":[\"Knead\", \"Unload\"], \"ra\":2}</item>
+        <item>{\"q\":\"understate\", \"a\":[\"Calibrate\", \"Exaggerate\"], \"ra\":2}</item>
+        <item>{\"q\":\"ill-advised\", \"a\":[\"Wise\", \"Stepwise\"], \"ra\":1}</item>
+    </string-array>
+</resources>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="question3">Which of the following mean \"%s\"?</string>
+    <!-- example <item>{\"q\":\"\", \"a\":[\"\", \"\", \"\", \"\", \"\"], \"ra\":}</item>-->
+    <string-array name="t3">
+        <item>{\"q\":\"communicating\", \"a\":[\"Get along\", \"Get across\", \"Get over\", \"Get over with\", \"Get down\"], \"ra\":2}</item>
+        <item>{\"q\":\"have a good relationship\", \"a\":[\"Get along\", \"Get across\", \"Get over\", \"Get over with\", \"Get down\"], \"ra\":1}</item>
+        <item>{\"q\":\"finish\", \"a\":[\"Get along\", \"Get across\", \"Get over\", \"Get over with\", \"Get down\"], \"ra\":4}</item>
+        <item>{\"q\":\"make sb bad\", \"a\":[\"Get along\", \"Get across\", \"Get over\", \"Get over with\", \"Get down\"], \"ra\":5}</item>
+        <item>{\"q\":\"recover from\", \"a\":[\"Get along\", \"Get across\", \"Get over\", \"Get over with\", \"Get down\"], \"ra\":3}</item>
+        <item>{\"q\":\"chase\", \"a\":[\"Go after\", \"Go down with\", \"Go off\", \"Go through\", \"Go up\", \"Go with\", \"Go without\"], \"ra\":1}</item>
+        <item>{\"q\":\"match\", \"a\":[\"Go after\", \"Go down with\", \"Go off\", \"Go through\", \"Go up\", \"Go with\", \"Go without\"], \"ra\":6}</item>
+        <item>{\"q\":\"be bad\", \"a\":[\"Go after\", \"Go down with\", \"Go off\", \"Go through\", \"Go up\", \"Go with\", \"Go without\"], \"ra\":3}</item>
+        <item>{\"q\":\"become ill\", \"a\":[\"Go after\", \"Go down with\", \"Go off\", \"Go through\", \"Go up\", \"Go with\", \"Go without\"], \"ra\":2}</item>
+        <item>{\"q\":\"experience\", \"a\":[\"Go after\", \"Go down with\", \"Go off\", \"Go through\", \"Go up\", \"Go with\", \"Go without\"], \"ra\":4}</item>
+        <item>{\"q\":\"lack (not have)\", \"a\":[\"Go after\", \"Go down with\", \"Go off\", \"Go through\", \"Go up\", \"Go with\", \"Go without\"], \"ra\":7}</item>
+        <item>{\"q\":\"increase\", \"a\":[\"Go after\", \"Go down with\", \"Go off\", \"Go through\", \"Go up\", \"Go with\", \"Go without\"], \"ra\":5}</item>
+        <item>{\"q\":\"cause to recall\", \"a\":[\"Bring round\", \"Bring in\", \"Bring up\", \"Bring out\", \"Bring back\", \"Bring about\"], \"ra\":5}</item>
+        <item>{\"q\":\"raise\", \"a\":[\"Bring round\", \"Bring in\", \"Bring up\", \"Bring out\", \"Bring back\", \"Bring about\"], \"ra\":3}</item>
+        <item>{\"q\":\"cause to happen\", \"a\":[\"Bring round\", \"Bring in\", \"Bring up\", \"Bring out\", \"Bring back\", \"Bring about\"], \"ra\":6}</item>
+        <item>{\"q\":\"make money\", \"a\":[\"Bring round\", \"Bring in\", \"Bring up\", \"Bring out\", \"Bring back\", \"Bring about\"], \"ra\":2}</item>
+        <item>{\"q\":\"make conscious again\", \"a\":[\"Bring round\", \"Bring in\", \"Bring up\", \"Bring out\", \"Bring back\", \"Bring about\"], \"ra\":1}</item>
+        <item>{\"q\":\"put on the market\", \"a\":[\"Bring round\", \"Bring in\", \"Bring up\", \"Bring out\", \"Bring back\", \"Bring about\"], \"ra\":4}</item>
+        <item>{\"q\":\"tidy\", \"a\":[\"Put away\", \"Put off\", \"Put on\", \"Put through\", \"Put up with\", \"Put out\"], \"ra\":1}</item>
+        <item>{\"q\":\"arrange for another time\", \"a\":[\"Put away\", \"Put off\", \"Put on\", \"Put through\", \"Put up with\", \"Put out\"], \"ra\":2}</item>
+        <item>{\"q\":\"connect by phone\", \"a\":[\"Put away\", \"Put off\", \"Put on\", \"Put through\", \"Put up with\", \"Put out\"], \"ra\":4}</item>
+        <item>{\"q\":\"dress oneself\", \"a\":[\"Put away\", \"Put off\", \"Put on\", \"Put through\", \"Put up with\", \"Put out\"], \"ra\":3}</item>
+        <item>{\"q\":\"stop\", \"a\":[\"Put away\", \"Put off\", \"Put on\", \"Put through\", \"Put up with\", \"Put out\"], \"ra\":6}</item>
+        <item>{\"q\":\"accept\", \"a\":[\"Put away\", \"Put off\", \"Put on\", \"Put through\", \"Put up with\", \"Put out\"], \"ra\":5}</item>
+        <item>{\"q\":\"ask to come to rescue somebody\", \"a\":[\"Call in\", \"Call off\", \"Call out\", \"Call on\", \"Call for\"], \"ra\":3}</item>
+        <item>{\"q\":\"cancel\", \"a\":[\"Call in\", \"Call off\", \"Call out\", \"Call on\", \"Call for\"], \"ra\":2}</item>
+        <item>{\"q\":\"need\", \"a\":[\"Call in\", \"Call off\", \"Call out\", \"Call on\", \"Call for\"], \"ra\":5}</item>
+        <item>{\"q\":\"visit\", \"a\":[\"Call in\", \"Call off\", \"Call out\", \"Call on\", \"Call for\"], \"ra\":4}</item>
+        <item>{\"q\":\"visit formally\", \"a\":[\"Call in\", \"Call off\", \"Call out\", \"Call on\", \"Call for\"], \"ra\":1}</item>
+        <item>{\"q\":\"begin and seem likely to continue\", \"a\":[\"Set aside\", \"Set in\", \"Set off\", \"Set back\"], \"ra\":2}</item>
+        <item>{\"q\":\"start a journey\", \"a\":[\"Set aside\", \"Set in\", \"Set off\", \"Set back\"], \"ra\":3}</item>
+        <item>{\"q\":\"save\", \"a\":[\"Set aside\", \"Set in\", \"Set off\", \"Set back\"], \"ra\":1}</item>
+        <item>{\"q\":\"slow down\", \"a\":[\"Set aside\", \"Set in\", \"Set off\", \"Set back\"], \"ra\":4}</item>
+        <item>{\"q\":\"reveal\", \"a\":[\"Give out\", \"Give away\", \"Give up\", \"Give back\"], \"ra\":2}</item>
+        <item>{\"q\":\"stop trying\", \"a\":[\"Give out\", \"Give away\", \"Give up\", \"Give back\"], \"ra\":3}</item>
+        <item>{\"q\":\"distribute\", \"a\":[\"Give out\", \"Give away\", \"Give up\", \"Give back\"], \"ra\":1}</item>
+        <item>{\"q\":\"return\", \"a\":[\"Give out\", \"Give away\", \"Give up\", \"Give back\"], \"ra\":4}</item>
+        <item>{\"q\":\"give smth because you no longer want it\", \"a\":[\"Give out\", \"Give away\", \"Give up\", \"Give back\"], \"ra\":2}</item>
+        <item>{\"q\":\"begin smth as a hobby\", \"a\":[\"Take to\", \"Take up\", \"Take off\", \"Take after\"], \"ra\":2}</item>
+        <item>{\"q\":\"to be like parents\", \"a\":[\"Take to\", \"Take up\", \"Take off\", \"Take after\"], \"ra\":4}</item>
+        <item>{\"q\":\"like\", \"a\":[\"Take to\", \"Take up\", \"Take off\", \"Take after\"], \"ra\":1}</item>
+        <item>{\"q\":\"remove clothes\", \"a\":[\"Take to\", \"Take up\", \"Take off\", \"Take after\"], \"ra\":3}</item>
+        <item>{\"q\":\"leave the ground\", \"a\":[\"Take to\", \"Take up\", \"Take off\", \"Take after\"], \"ra\":3}</item>
+        <item>{\"q\":\"fill time\", \"a\":[\"Take to\", \"Take up\", \"Take off\", \"Take after\"], \"ra\":2}</item>
+        <item>{\"q\":\"increase the volume\", \"a\":[\"Turn down\", \"Turn up\", \"Turn into\", \"Turn off\", \"Turn back\"], \"ra\":2}</item>
+        <item>{\"q\":\"refuse\", \"a\":[\"Turn down\", \"Turn up\", \"Turn into\", \"Turn off\", \"Turn back\"], \"ra\":1}</item>
+        <item>{\"q\":\"become\", \"a\":[\"Turn down\", \"Turn up\", \"Turn into\", \"Turn off\", \"Turn back\"], \"ra\":3}</item>
+        <item>{\"q\":\"return\", \"a\":[\"Turn down\", \"Turn up\", \"Turn into\", \"Turn off\", \"Turn back\"], \"ra\":5}</item>
+        <item>{\"q\":\"arrive\", \"a\":[\"Turn down\", \"Turn up\", \"Turn into\", \"Turn off\", \"Turn back\"], \"ra\":2}</item>
+        <item>{\"q\":\"switch off\", \"a\":[\"Turn down\", \"Turn up\", \"Turn into\", \"Turn off\", \"Turn back\"], \"ra\":4}</item>
+    </string-array>
+</resources>

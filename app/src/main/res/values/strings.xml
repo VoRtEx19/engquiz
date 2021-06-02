@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">EngQuiz</string>
+    <string name="round">Round: </string>
+    <string name="score">Score: </string>
+    <string name="yourScore">Your score is </string>
+    <string name="leave">leave</string>
+    <string name="board_of_records">Board of Records</string>
+    <string name="number">№</string>
+    <string name="nickname">Nickname</string>
+    <string name="score_title">Score</string>
+    <string name="_1">1</string>
+    <string name="_null">---</string>
+    <string name="_2">2</string>
+    <string name="_3">3</string>
+    <string name="_4">4</string>
+    <string name="_5">5</string>
+    <string name="_6">6</string>
+    <string name="_7">7</string>
+    <string name="play">Play</string>
+    <string name="settings">Settings</string>
+    <string name="records">Records</string>
+    <string name="exit">Exit</string>
+    <string name="round_starting">Round: 0</string>
+    <string name="score_starting">Score: 0</string>
+    <string name="check">Check</string>
+    <string name="proceed">Proceed</string>
+    <string name="types_of_questions">Types of Questions:</string>
+    <string name="synonyms_antonyms">Synonyms / Antonyms</string>
+    <string name="closest_meaning">Closest meaning of 4 words</string>
+    <string name="modal">Modal and phrasal verbs</string>
+    <string name="audio">Audio question</string>
+    <string name="pronunciation">Check pronunciation</string>
+    <string name="save">save</string>
+    <string name="what_is_of">What is … of …?</string>
+    <string name="loading">Loading…</string>
+    <string name="are_you_sure">Are you sure?</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="ready">Ready?</string>
+    <string name="ok">Ok</string>
+
+</resources>

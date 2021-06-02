@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="question2">What fits the most: \"%s\"?</string>
+    <!-- example <item>{\"q\":\"\", \"a\":[\"\", \"\", \"\", \"\"], \"ra\":}</item>-->
+    <string-array name="t2">
+        <item>{\"q\":\"Tracing your family history can also … in learning about your roots and identity\", \"a\":[\"cause\", \"mean\", \"result\", \"lead\"], \"ra\":3}</item>
+        <item>{\"q\":\"The survey also concluded that the … back you follow your family line, the more likely you are to find a relation who was much wealthier than you are\", \"a\":[\"older\", \"greater\", \"higher\", \"further\"], \"ra\":4}</item>
+        <item>{\"q\":\"However, the vast majority of people who … in the survey discovered they were better off than their ancestors\", \"a\":[\"attended\", \"participated\", \"included\", \"associated\"], \"ra\":2}</item>
+        <item>{\"q\":\"Everywhere fertile soil is … built on or washed into the sea\", \"a\":[\"sooner\", \"neither\", \"either\", \"rather\"], \"ra\":3}</item>
+        <item>{\"q\":\"We need food, water, air, energy, medicines, warmth, shelter and minerals to … us fed, comfortable, healthy and active\", \"a\":[\"keep\", \"hold\", \"maintain\", \"stay\"], \"ra\":1}</item>
+        <item>{\"q\":\"If we are sensible in how we use the resources they will … indefinitely\", \"a\":[\"last\", \"stand\", \"go\", \"remain\"], \"ra\":1}</item>
+        <item>{\"q\":\"Like any good recipe you have to know the main … of a successful novel\", \"a\":[\"parts\", \"ingredients\", \"pieces\", \"sections\"], \"ra\":2}</item>
+        <item>{\"q\":\"It has been used for money, jewellery, and to decorate special buildings such … palaces and places of worship\", \"a\":[\"like\", \"many\", \"as\", \"to\"], \"ra\":3}</item>
+        <item>{\"q\":\"Gold is beautiful and rare; a soft shiny metal that can be moulded into many … \", \"a\":[\"formats\", \"outlines\", \"shapes\", \"lines\"], \"ra\":3}</item>
+        <item>{\"q\":\"In its natural … , gold is soft and easily shaped\", \"a\":[\"state\", \"stage\", \"estate\", \"position\"], \"ra\":1}</item>
+        <item>{\"q\":\"About 25 million overseas visitors … Britain each year\", \"a\":[\"come from\", \"come away with\", \"come to\", \"come down to\"], \"ra\":3}</item>
+        <item>{\"q\":\"Tourism is one of the biggest employment … in the UK, too\", \"a\":[\"sectors\", \"zones\", \"sections\", \"districts\"], \"ra\":1}</item>
+        <item>{\"q\":\"As the … you need to be proactive, because your kitty can not tell you when she feels sick\", \"a\":[\"landlord\", \"owner\", \"head\", \"lender\"], \"ra\":2}</item>
+        <item>{\"q\":\"The giant panda leads a … life, except during the mating season\", \"a\":[\"alone\", \"friendless\", \"solitary\", \"unsociable\"], \"ra\":3}</item>
+        <item>{\"q\":\"… most bears, the giant panda does not hibernate\", \"a\":[\"But\", \"Unlike\", \"Owning\", \"Unlikely\"], \"ra\":2}</item>
+        <item>{\"q\":\"Instant messaging enables you to get … touch with somebody immediately\", \"a\":[\"of\", \"at\", \"to\", \"in\"], \"ra\":4}</item>
+        <item>{\"q\":\"Denmark is made … of the narrow Jutland Peninsula and over 100 islands\", \"a\":[\"off\", \"out\", \"after\", \"up\"], \"ra\":4}</item>
+        <item>{\"q\":\"Today the use of modern fertilizers enables … farming in Jutland\", \"a\":[\"sizable\", \"extensive\", \"spacious\", \"broad\"], \"ra\":2}</item>
+        <item>{\"q\":\"Climate of Denmark is strongly … by the sea\", \"a\":[\"motivated\", \"influenced\", \"guided\", \"inspired\"], \"ra\":2}</item>
+        <item>{\"q\":\"The lack of mountains has another strong influence … the weather\", \"a\":[\"for\", \"by\", \"with\", \"on\"], \"ra\":4}</item>
+        <item>{\"q\":\"Dinghy sailing holidays are most … to be combined with a sailing course\", \"a\":[\"unlikely\", \"likely\", \"unlike\", \"like\"], \"ra\":2}</item>
+        <item>{\"q\":\"As with most niche markets, there are scant data available … the sailing tourism sector\", \"a\":[\"respecting\", \"remarking\", \"relating\", \"regarding\"], \"ra\":4}</item>
+        <item>{\"q\":\"But tiger is being … across its range\", \"a\":[\"prosecuted\", \"persecuted\", \"persuaded\", \"peril\"], \"ra\":2}</item>
+        <item>{\"q\":\"The … American watches television for more than four hours a day. \", \"a\":[\"mean\", \"average\", \"modern\", \"standard\"], \"ra\":2}</item>
+        <item>{\"q\":\"Sitting … in front of the television leads to weight gain\", \"a\":[\"resigned\", \"passively\", \"still\", \"emotionless\"], \"ra\":2}</item>
+        <item>{\"q\":\"The Great Wall of China is the biggest object … made by humans\", \"a\":[\"ever\", \"never\", \"forever\", \"always\"], \"ra\":1}</item>
+        <item>{\"q\":\"The Great Wall of China … across mountains, deserts and grasslands for over 6,000 kilometres\", \"a\":[\"stretches\", \"prolongs\", \"enlarges\", \"covers\"], \"ra\":1}</item>
+        <item>{\"q\":\"The ancient Chinese built the wall to keep invaders from the west … of their country\", \"a\":[\"out\", \"up\", \"for\", \"down\"], \"ra\":1}</item>
+        <item>{\"q\":\"As time went on Chinese emperors connected them together to keep Huns, Mongols and other … away\", \"a\":[\"sects\", \"races\", \"tribes\", \"crowds\"], \"ra\":3}</item>
+        <item>{\"q\":\"The Chinese wall is … of dirt, mud, stone and brick\", \"a\":[\"made\", \"created\", \"prepared\", \"produced\"], \"ra\":1}</item>
+        <item>{\"q\":\"Even … he died before his 36th birthday, Mozart created more than 600 works\", \"a\":[\"as\", \"if\", \"though\", \"until\"], \"ra\":3}</item>
+        <item>{\"q\":\"Mozart composed his own piano … at five, his first symphonies when he reached nine and whole operas at the age of 12\", \"a\":[\"slices\", \"parts\", \"pieces\", \"chunks\"], \"ra\":3}</item>
+        <item>{\"q\":\"Mozart came … a loving family\", \"a\":[\"from\", \"down\", \"on\", \"off\"], \"ra\":1}</item>
+        <item>{\"q\":\"His father … him through all stages in his life\", \"a\":[\"escorted\", \"piloted\", \"guided\", \"ruled\"], \"ra\":3}</item>
+        <item>{\"q\":\"The term Viking covers all the pagan peoples of Scandinavia who … Old Norse\", \"a\":[\"told\", \"talked\", \"spoke\", \"said\"], \"ra\":3}</item>
+        <item>{\"q\":\"The Vikings were … farmers, fishers, hunters and skilled craft workers\", \"a\":[\"general\", \"remarkably\", \"basic\", \"mainly\"], \"ra\":4}</item>
+        <item>{\"q\":\"During the ninth century, Danish Vikings … in eastern England\", \"a\":[\"placed\", \"settled\", \"housed\", \"set\"], \"ra\":2}</item>
+        <item>{\"q\":\"King Alfred of Wessex … vikings in battle and established a frontier dividing England into two parts\", \"a\":[\"finished\", \"wiped\", \"defeated\", \"demolished\"], \"ra\":}</item>
+        <item>{\"q\":\"Why did European exploration begin to flourish in the 1400s? Two main … stand out\", \"a\":[\"excuses\", \"reasons\", \"senses\", \"cases\"], \"ra\":2}</item>
+        <item>{\"q\":\"Europeans of 1400s had several motives for … the world\", \"a\":[\"exploring\", \"inspecting\", \"investigating\", \"researching\"], \"ra\":1}</item>
+        <item>{\"q\":\"Advances in knowledge and technology helped make … of discovery possible\", \"a\":[\"crossing\", \"voyages\", \"cruises\", \"trips\"], \"ra\":2}</item>
+        <item>{\"q\":\"Demand … goods from Africa, the Middle East, and Asia increased the desire for trade\", \"a\":[\"on\", \"in\", \"to\", \"for\"], \"ra\":4}</item>
+        <item>{\"q\":\"Muslim traders … goods to the east coast of the Mediterranean Sea\", \"a\":[\"carried\", \"conducted\", \"removed\", \"passed\"], \"ra\":1}</item>
+        <item>{\"q\":\"… friends is one of the most difficult and worthwhile experiences of human life\", \"a\":[\"Making\", \"Building\", \"Doing\", \"Producing\"], \"ra\":1}</item>
+        <item>{\"q\":\"Many people … friendship with acquaintances and they are not the same at all\", \"a\":[\"mix\", \"argue\", \"confused\", \"blend\"], \"ra\":3}</item>
+        <item>{\"q\":\"Friends are people you actively seek out, people with whom you have something in …\", \"a\":[\"common\", \"advance\", \"regards\", \"touch\"], \"ra\":1}</item>
+        <item>{\"q\":\"There are many … and rewards for the study of wine\", \"a\":[\"apologies\", \"excuses\", \"occasions\", \"reasons\"], \"ra\":4}</item>
+        <item>{\"q\":\"The … that wine produced euphoria was not lost on ancient man\", \"a\":[\"feature\", \"case\", \"act\", \"fact\"], \"ra\":4}</item>
+        <item>{\"q\":\"Venice, the only in the world pedestrian city, is easily walkable, and the absence of cars makes this a particularly pleasant  …\", \"a\":[\"knowledge\", \"struggle\", \"involvement\", \"experience\"], \"ra\":4}</item>
+        <item>{\"q\":\"The vaporetti (water buses in Venice) are generally the best way to get around, … if the service route map changes frequently\", \"a\":[\"as\", \"what\", \"even\", \"ever\"], \"ra\":3}</item>
+    </string-array>
+</resources>
